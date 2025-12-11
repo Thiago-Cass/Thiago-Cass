@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,100:1e90ff&height=260&section=header&text=Thiago%20Pereira%20~%20Cass&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 🎨 Thiago Pereira ~ Cass
+# Thiago Pereira ~ Cass
 
 <p align="center">
   <a href="https://www.instagram.com/thiagocassz_/" target="_blank">
