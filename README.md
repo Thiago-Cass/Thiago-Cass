@@ -1,41 +1,65 @@
-Olá! Eu sou um Desenvolvedor focado em Redes
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text=Thiago%20Pereira%20~%20Cass&width=1200&height=300&color=blue" />
+</p>
 
-Sou um dev que trabalha diretamente com infraestrutura de redes, automação e ambientes de alta performance. Curto um visual azul e preto, e gosto de levar isso para tudo que faço — seja código, diagramas ou identidade visual dos meus projetos.
+# 🎨 Thiago Pereira ~ Cass
 
-🚀 Sobre mim
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor%20de%20Redes-000000?style=for-the-badge&logoColor=white" />
+</p>
 
-👨‍💻 Desenvolvedor com foco em automação, scripts e integrações para infra
+<p align="center">
+  <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
-🌐 Experiência prática com redes, BGP, CGNat, firewalls e edge routers
+---
 
-🔧 Gosto de criar ferramentas próprias para facilitar o dia a dia
+## 👋 Olá, Devs!
 
-🎨 Preferência estética: Azul + Preto (dark mode sempre 😎)
+Sou o **Thiago Pereira**, mais conhecido como **Cass**. Desenvolvedor com foco em **software para redes, automação, infraestrutura e ambientes críticos**.
 
-📦 Crio e mantenho scripts, serviços e configs para ambientes críticos
+Gosto de visual moderno, com destaque para **azul e preto** — estilo limpo, profissional e forte.
 
-🛠️ Tecnologias que uso no dia a dia
+---
 
-Linguagens: Python, Bash, JS
+## 🧠 Sobre mim
 
-Infra/Redes: BGP, ExaBGP, Mikrotik, Huawei, Juniper
+* 👨‍💻 Desenvolvedor com foco em **automação e soluções para redes**
+* 🛰️ Experiência com **ISPs, BGP, CGNAT, firewalls e roteadores de borda**
+* 🐧 Usuário avançado de **Debian/Linux**
+* ⚙️ Crio ferramentas, scripts e integrações que facilitam o dia a dia da operação
+* 🎨 Sempre apostando no **Dark Mode + Azul**
 
-Sistemas: Debian, Linux em geral
+---
 
-Automação: cron, systemd, scripts inteligentes
+## 🛠️ Tecnologias & Ferramentas
 
-💡 O que você vai encontrar nos meus repositórios
+🔵 **Linguagens**: Python, Bash, JavaScript
 
-Scripts úteis para o mundo de ISPs e provedores
+⬛ **Redes**: BGP, Mikrotik, Huawei, Juniper, ExaBGP
 
-Automações para redes e monitoramento
+🔧 **Infra**: Debian, systemd, cron, automações de rede, tunelamentos
 
-Ferramentas e utilidades para facilitar operações técnicas
+---
 
-Documentações claras e objetivas
+## ⚡ Minha filosofia
 
-🎯 Objetivo
+> "Automação não é luxo — é sobrevivência na infraestrutura."
 
-Sempre criar soluções práticas para problemas reais — rápidas, limpas e eficientes.
+Busco sempre escrever código limpo, direto e funcional.
 
-Se quiser trocar uma ideia, melhorar algum script, ou colaborar, é só chamar! 🔵⬛
+---
+
+## 📫 Contato
+
+Quer trocar uma ideia, sugerir algo ou colaborar?
+
+<p align="center"><b>Me chama em qualquer rede acima!</b></p>
+
+---
+
+<p align="center">🔵⬛ Desenvolvedor de Redes — sempre evoluindo</p>
