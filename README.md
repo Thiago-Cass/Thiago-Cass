@@ -25,8 +25,6 @@
 
 Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **software para redes, automação e infraestrutura crítica**.
 
-Gosto de visual moderno, com destaque para **azul e preto**, estilo limpo e profissional.
-
 ---
 
 ## 🧠 Sobre mim
@@ -35,7 +33,7 @@ Gosto de visual moderno, com destaque para **azul e preto**, estilo limpo e prof
 * 🛰️ Experiência com **ISPs, BGP, CGNAT, firewalls, roteadores de borda**
 * 🐧 Usuário avançado de **Debian/Linux**
 * 🛠️ Crio ferramentas e soluções que facilitam o dia a dia da operação
-* 🎨 Preferência total por **Dark Mode + Azul**
+
 
 ---
 
