@@ -1,5 +1,7 @@
+<!-- BANNER PERSONALIZADO -->
+
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text=Thiago%20Pereira%20~%20Cass&width=1200&height=300&color=blue" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,100:1e90ff&height=260&section=header&text=Thiago%20Pereira%20~%20Cass&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 🎨 Thiago Pereira ~ Cass
@@ -20,19 +22,18 @@
 
 ## 👋 Olá, Devs!
 
-Sou o **Thiago Pereira**, mais conhecido como **Cass**. Desenvolvedor com foco em **software para redes, automação, infraestrutura e ambientes críticos**.
+Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **software para redes, automação e infraestrutura crítica**.
 
-Gosto de visual moderno, com destaque para **azul e preto** — estilo limpo, profissional e forte.
 
 ---
 
 ## 🧠 Sobre mim
 
-* 👨‍💻 Desenvolvedor com foco em **automação e soluções para redes**
-* 🛰️ Experiência com **ISPs, BGP, CGNAT, firewalls e roteadores de borda**
+* 👨‍💻 Desenvolvedor com foco em **automação, redes e integração de sistemas**
+* 🛰️ Experiência com **ISPs, BGP, CGNAT, firewalls, roteadores de borda**
 * 🐧 Usuário avançado de **Debian/Linux**
-* ⚙️ Crio ferramentas, scripts e integrações que facilitam o dia a dia da operação
-* 🎨 Sempre apostando no **Dark Mode + Azul**
+* 🛠️ Crio ferramentas e soluções que facilitam o dia a dia da operação
+* 🎨 Preferência total por **Dark Mode + Azul**
 
 ---
 
@@ -42,21 +43,28 @@ Gosto de visual moderno, com destaque para **azul e preto** — estilo limpo, pr
 
 ⬛ **Redes**: BGP, Mikrotik, Huawei, Juniper, ExaBGP
 
-🔧 **Infra**: Debian, systemd, cron, automações de rede, tunelamentos
+🔧 **Infra**: Debian, systemd, cron, tunelamentos e automações
 
 ---
 
-## ⚡ Minha filosofia
+## 📂 O que você encontra nos meus repositórios
+
+* Scripts de automação para provedores
+* Ferramentas de monitoramento e diagnóstico
+* Soluções práticas e eficientes para redes
+* Projetos diretos, limpos e funcionais
+
+---
+
+## ⚡ Filosofia
 
 > "Automação não é luxo — é sobrevivência na infraestrutura."
 
-Busco sempre escrever código limpo, direto e funcional.
+Sempre priorizo código limpo e soluções práticas.
 
 ---
 
 ## 📫 Contato
-
-Quer trocar uma ideia, sugerir algo ou colaborar?
 
 <p align="center"><b>Me chama em qualquer rede acima!</b></p>
 
