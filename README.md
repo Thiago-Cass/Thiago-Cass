@@ -11,11 +11,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red" />
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/thiagocassz_/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-pereira-609a36302/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -24,6 +25,7 @@
 
 Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **software para redes, automação e infraestrutura crítica**.
 
+Gosto de visual moderno, com destaque para **azul e preto**, estilo limpo e profissional.
 
 ---
 
