@@ -1,16 +1,41 @@
-## Hi there 👋
+Olá! Eu sou um Desenvolvedor focado em Redes
 
-<!--
-**Thiago-Cass/Thiago-Cass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um dev que trabalha diretamente com infraestrutura de redes, automação e ambientes de alta performance. Curto um visual azul e preto, e gosto de levar isso para tudo que faço — seja código, diagramas ou identidade visual dos meus projetos.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Desenvolvedor com foco em automação, scripts e integrações para infra
+
+🌐 Experiência prática com redes, BGP, CGNat, firewalls e edge routers
+
+🔧 Gosto de criar ferramentas próprias para facilitar o dia a dia
+
+🎨 Preferência estética: Azul + Preto (dark mode sempre 😎)
+
+📦 Crio e mantenho scripts, serviços e configs para ambientes críticos
+
+🛠️ Tecnologias que uso no dia a dia
+
+Linguagens: Python, Bash, JS
+
+Infra/Redes: BGP, ExaBGP, Mikrotik, Huawei, Juniper
+
+Sistemas: Debian, Linux em geral
+
+Automação: cron, systemd, scripts inteligentes
+
+💡 O que você vai encontrar nos meus repositórios
+
+Scripts úteis para o mundo de ISPs e provedores
+
+Automações para redes e monitoramento
+
+Ferramentas e utilidades para facilitar operações técnicas
+
+Documentações claras e objetivas
+
+🎯 Objetivo
+
+Sempre criar soluções práticas para problemas reais — rápidas, limpas e eficientes.
+
+Se quiser trocar uma ideia, melhorar algum script, ou colaborar, é só chamar! 🔵⬛
