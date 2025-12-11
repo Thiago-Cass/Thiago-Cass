@@ -13,13 +13,9 @@
   </a>
 </p>
 
----
-
 ## 👋 Olá, Devs!
 
 Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **software para automação e infraestrutura crítica**.
-
----
 
 ## 🧠 Sobre mim
 
@@ -29,8 +25,6 @@ Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **sof
 * 🛠️ Crio ferramentas e soluções que facilitam o dia a dia da operação
 
 
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 🔵 **Linguagens**: Python, Bash, JavaScript
@@ -39,8 +33,6 @@ Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **sof
 
 🔧 **Sistemas**: Debian, systemd, cron, tunelamentos e automações
 
----
-
 ## 📂 O que você encontra nos meus repositórios
 
 * Scripts de automação para infraestrutura
@@ -48,20 +40,14 @@ Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **sof
 * Soluções práticas e eficientes para sistemas críticos
 * Projetos diretos, limpos e funcionais
 
----
-
 ## ⚡ Filosofia
 
 > "Automação não é luxo — é sobrevivência na infraestrutura."
 
 Sempre priorizo código limpo e soluções práticas.
 
----
-
 ## 📫 Contato
 
 <p align="center"><b>Me chama em qualquer rede acima!</b></p>
-
----
 
 <p align="center">🔵⬛ Desenvolvedor / SOC / Infraestrutura — sempre evoluindo</p>
