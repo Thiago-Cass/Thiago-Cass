@@ -24,18 +24,6 @@ Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **sof
 
 🔧 **Sistemas**: Debian, systemd, cron, tunelamentos e automações
 
-## 📂 O que você encontra nos meus repositórios
-
-* Scripts de automação para infraestrutura
-* Ferramentas de monitoramento e diagnóstico
-* Soluções práticas e eficientes para sistemas críticos
-* Projetos diretos, limpos e funcionais
-
-## ⚡ Filosofia
-
-> "Automação não é luxo — é sobrevivência na infraestrutura."
-
-Sempre priorizo código limpo e soluções práticas.
 
 ## 📫 Contato
 
