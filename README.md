@@ -4,15 +4,6 @@
 
 # Thiago Pereira ~ Cass
 
-<p align="center">
-  <a href="https://www.instagram.com/thiagocassz_/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-pereira-609a36302/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ## 👋 Olá, Devs!
 
 Sou o **Thiago Pereira**, conhecido como **Cass**. Desenvolvedor focado em **software para automação e infraestrutura crítica**.
