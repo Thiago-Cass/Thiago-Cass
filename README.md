@@ -70,4 +70,4 @@ Sempre priorizo código limpo e soluções práticas.
 
 ---
 
-<p align="center">🔵⬛ Desenvolvedor de Redes — sempre evoluindo</p>
+<p align="center">🔵⬛ Desenvolvedor  / SOC / Redes — sempre evoluindo</p>
